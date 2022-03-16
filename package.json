@@ -1,0 +1,41 @@
+{
+  "name": "@stdlib/random-iter-invgamma",
+  "version": "0.0.0",
+  "description": "Create an iterator for generating pseudorandom numbers drawn from an inverse gamma distribution.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-iter-invgamma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "inverse",
+    "gamma",
+    "inverse-gamma",
+    "continuous",
+    "generator",
+    "seed",
+    "seedable",
+    "iterator",
+    "iterable"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
